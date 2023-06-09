@@ -1,0 +1,19 @@
+commit 8cc9b7fe2fee23e3a4ca216f01b669af31e3731a
+Author: Junta Nakanishi <221205111@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 14:08:03 2023 +0900
+
+    テトリミノの落下速度を変更
+    
+    落下速度を400から1000に変更
+
+commit 99d2053acd73bc44c8f5a59ae1c3537ba49a75a1
+Author: Junta Nakanishi <221205111@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 14:00:29 2023 +0900
+
+    テトリミノの色を緑からライムに変更
+
+commit 769e89c8ccf3816c1d5c289c6d0d1b6d3c55f089
+Author: Junta Nakanishi <221205111@ccmailg.meijo-u.ac.jp>
+Date:   Fri Apr 28 13:39:11 2023 +0900
+
+    canvas-tetrisのソースコードをインポート
